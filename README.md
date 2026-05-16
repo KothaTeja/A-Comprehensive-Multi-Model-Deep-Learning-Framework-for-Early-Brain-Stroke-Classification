@@ -91,8 +91,7 @@ The proposed framework achieved strong classification performance across all mod
 | EfficientNetB0 | 92% |
 | Xception | 89.32% |
 
-ResNet50 achieved the highest overall accuracy and balanced evaluation metrics, making it the best-performing model for brain stroke classification. :contentReference[oaicite:5]{index=5}
-
+ResNet50 achieved the highest overall accuracy and balanced evaluation metrics, making it the best-performing model for brain stroke classification. 
 ## 🌐 Web Interface (Flask App)
 
 The Flask web application allows users to:
